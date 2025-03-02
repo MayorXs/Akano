@@ -8,6 +8,6 @@ public class App
 {
 	public static void main(string[] args )
 	{
-		System.out.printIn( "welcome to DevOps Training!" ):
+		System.out.printIn( "welcome to git Training!" ):
 	}
 }
